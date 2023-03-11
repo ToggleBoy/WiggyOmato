@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WiggyOmato/static/css/main.50199d20.css",
+    "main.js": "/WiggyOmato/static/js/main.2b485794.js",
+    "static/js/787.940771f2.chunk.js": "/WiggyOmato/static/js/787.940771f2.chunk.js",
+    "static/media/meals.jpg": "/WiggyOmato/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/WiggyOmato/index.html",
+    "main.50199d20.css.map": "/WiggyOmato/static/css/main.50199d20.css.map",
+    "main.2b485794.js.map": "/WiggyOmato/static/js/main.2b485794.js.map",
+    "787.940771f2.chunk.js.map": "/WiggyOmato/static/js/787.940771f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50199d20.css",
+    "static/js/main.2b485794.js"
+  ]
+}
